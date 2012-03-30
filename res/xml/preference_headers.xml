@@ -4,7 +4,7 @@
 		android:id="@+id/about"
 		android:fragment="com.clustycontrol.fragments.About"
 		android:title="@string/about_clustyrom"
-		android:summary="@string/about_aokp_summary" />
+		android:summary="@string/about_clustyrom_summary" />
 
 	<header android:title="@string/user_interface" />
 
