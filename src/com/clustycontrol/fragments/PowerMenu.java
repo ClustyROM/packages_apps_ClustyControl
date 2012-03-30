@@ -11,7 +11,7 @@ import android.provider.Settings.SettingNotFoundException;
 import com.clustycontrol.ClustyROMPreferenceFragment;
 import com.clustycontrol.R;
 
-public class PowerMenu extends AOKPPreferenceFragment {
+public class PowerMenu extends ClustyROMPreferenceFragment {
 
     private static final String PREF_POWER_SAVER = "show_power_saver";
     private static final String PREF_SCREENSHOT = "show_screenshot";

@@ -4,7 +4,7 @@ package com.clustycontrol.xml;
 import android.content.Context;
 import android.util.Log;
 
-import com.aokp.romcontrol.WeatherInfo;
+import com.clustycontrol.WeatherInfo;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
