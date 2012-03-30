@@ -32,8 +32,8 @@
 			android:title="Voltage Control">
 			<intent
 				android:action="android.intent.action.MAIN"
-				android:targetPackage="com.aokp.romcontrol"
-				android:targetClass="com.aokp.romcontrol.tools.VoltageControl" />
+				android:targetPackage="com.clustycontrol"
+				android:targetClass="com.clustycontrol.tools.VoltageControl" />
 		</PreferenceScreen>
 	</PreferenceCategory>
 	<PreferenceCategory

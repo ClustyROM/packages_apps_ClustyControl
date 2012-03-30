@@ -12,8 +12,8 @@
 
 			<intent
 				android:action="android.intent.action.MAIN"
-				android:targetClass="com.aokp.romcontrol.activities.UserInterface"
-				android:targetPackage="com.aokp.romcontrol" />
+				android:targetClass="com.clustycontrol.activities.UserInterface"
+				android:targetPackage="com.clustycontrol" />
 		</Preference>
 
 		<Preference
@@ -22,8 +22,8 @@
 
 			<intent
 				android:action="android.intent.action.MAIN"
-				android:targetClass="com.aokp.romcontrol.activities.Navbar"
-				android:targetPackage="com.aokp.romcontrol" />
+				android:targetClass="com.clustycontrol.activities.Navbar"
+				android:targetPackage="com.clustycontrol" />
 		</Preference>
 
 		<Preference
@@ -32,8 +32,8 @@
 
 			<intent
 				android:action="android.intent.action.MAIN"
-				android:targetClass="com.aokp.romcontrol.activities.Lockscreens"
-				android:targetPackage="com.aokp.romcontrol" />
+				android:targetClass="com.clustycontrol.activities.Lockscreens"
+				android:targetPackage="com.clustycontrol" />
 		</Preference>
 
 		<Preference
@@ -42,8 +42,8 @@
 
 			<intent
 				android:action="android.intent.action.MAIN"
-				android:targetClass="com.aokp.romcontrol.activities.PowerMenu"
-				android:targetPackage="com.aokp.romcontrol" />
+				android:targetClass="com.clustycontrol.activities.PowerMenu"
+				android:targetPackage="com.clustycontrol" />
 		</Preference>
 	</PreferenceCategory>
 
@@ -57,8 +57,8 @@
 
 			<intent
 				android:action="android.intent.action.MAIN"
-				android:targetClass="com.aokp.romcontrol.activities.PowerSaver"
-				android:targetPackage="com.aokp.romcontrol" />
+				android:targetClass="com.clustycontrol.activities.PowerSaver"
+				android:targetPackage="com.clustycontrol" />
 		</Preference>
 
 		<Preference
@@ -67,8 +67,8 @@
 
 			<intent
 				android:action="android.intent.action.MAIN"
-				android:targetClass="com.aokp.romcontrol.activities.LED"
-				android:targetPackage="com.aokp.romcontrol" />
+				android:targetClass="com.clustycontrol.activities.LED"
+				android:targetPackage="com.clustycontrol" />
 		</Preference>
 
 
@@ -84,8 +84,8 @@
 
 			<intent
 				android:action="android.intent.action.MAIN"
-				android:targetClass="com.aokp.romcontrol.activities.StatusBarGeneral"
-				android:targetPackage="com.aokp.romcontrol" />
+				android:targetClass="com.clustycontrol.activities.StatusBarGeneral"
+				android:targetPackage="com.clustycontrol" />
 		</Preference>
 
 		<Preference
@@ -94,8 +94,8 @@
 
 			<intent
 				android:action="android.intent.action.MAIN"
-				android:targetClass="com.aokp.romcontrol.activities.StatusBarToggles"
-				android:targetPackage="com.aokp.romcontrol" />
+				android:targetClass="com.clustycontrol.activities.StatusBarToggles"
+				android:targetPackage="com.clustycontrol" />
 		</Preference>
 
 		<Preference
@@ -104,8 +104,8 @@
 
 			<intent
 				android:action="android.intent.action.MAIN"
-				android:targetClass="com.aokp.romcontrol.activities.StatusBarClock"
-				android:targetPackage="com.aokp.romcontrol" />
+				android:targetClass="com.clustycontrol.activities.StatusBarClock"
+				android:targetPackage="com.clustycontrol" />
 		</Preference>
 
 		<Preference
@@ -114,8 +114,8 @@
 
 			<intent
 				android:action="android.intent.action.MAIN"
-				android:targetClass="com.aokp.romcontrol.activities.StatusBarBattery"
-				android:targetPackage="com.aokp.romcontrol" />
+				android:targetClass="com.clustycontrol.activities.StatusBarBattery"
+				android:targetPackage="com.clustycontrol" />
 		</Preference>
 
 	</PreferenceCategory>
@@ -129,8 +129,8 @@
 			android:summary="@string/ps_performance">
 			<intent
 				android:action="android.intent.action.MAIN"
-				android:targetPackage="com.aokp.romcontrol"
-				android:targetClass="com.aokp.romcontrol.tools.Performance" />
+				android:targetPackage="com.clustycontrol"
+				android:targetClass="com.clustycontrol.tools.Performance" />
 		</Preference>
 		<Preference
 			android:key="init_d"
@@ -138,8 +138,8 @@
 			android:summary="@string/ps_init_d">
 			<intent
 				android:action="android.intent.action.MAIN"
-				android:targetPackage="com.aokp.romcontrol"
-				android:targetClass="com.aokp.romcontrol.tools.InitD" />
+				android:targetPackage="com.clustycontrol"
+				android:targetClass="com.clustycontrol.tools.InitD" />
 		</Preference>
 	</PreferenceCategory>
 </PreferenceScreen>
