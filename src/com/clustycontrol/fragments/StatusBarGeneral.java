@@ -12,7 +12,7 @@ import android.provider.Settings;
 import android.util.Log;
 
 import com.clustycontrol.ClustyROMPreferenceFragment;
-import com.clustycontrolR;
+import com.clustycontrol.R;
 
 import java.io.IOException;
 
