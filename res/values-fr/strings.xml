@@ -344,6 +344,7 @@
         <string name="pref_scrollingcache_force_disable">Forcez à désactiver</string>
 
 	<!-- Preference Summaries -->
+	<string name="pt_volt_control">Contrôle du Voltage</string>
 	<!-- Main -->
 	<string name="ps_performance">Set CPU, free memory &amp; customize start-up
 		settings.</string>
